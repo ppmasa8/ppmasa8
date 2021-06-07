@@ -5,4 +5,4 @@
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppmasa8&layout=compact&langs_count=8&show_icons=true&theme=vue"></td>
 </table>
 
-- Hi!😄 I'm studying law at university. Nice to meet you !
+- It's sad that I don't have any followers, so I'd be happy if you could follow me!😄 
