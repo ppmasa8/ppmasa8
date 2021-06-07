@@ -1,5 +1,8 @@
 ### Profile
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppmasa8)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ppmasa8&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
+<table>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=ppmasa8&show_icons=true&theme=vue"></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ppmasa8&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&show_icons=true&theme=vue"></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppmasa8&layout=compact&langs_count=8&show_icons=true&theme=vue"></td>
+</table>
 
-- Hi!:smile: I'm studying law at university. Nice to meet you !
+- Hi!😄 I'm studying law at university. Nice to meet you !
