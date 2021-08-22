@@ -8,4 +8,3 @@
   <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppmasa8&theme=vue"></td>
 </table>
 
-- It's sad that I don't have any followers, so I'd be happy if you could follow me!😄 
